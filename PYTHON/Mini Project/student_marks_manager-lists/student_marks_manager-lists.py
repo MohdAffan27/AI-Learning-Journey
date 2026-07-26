@@ -12,7 +12,7 @@ s4=input("Enter student_4 name here : ")
 std_name.append(s4)
 s5=input("Enter student_5 name here : ")
 std_name.append(s5)
-s6=input("Enter student_5 name here : ")
+s6=input("Enter student_6 name here : ")
 std_name.append(s6)
 # Enter Marks  
 sm1=int(input("Enter student marks here : "))
