@@ -1,8 +1,9 @@
-Python Practice – File Handling Exercises
+#Python Practice – File Handling Exercises
 
 This folder contains Python programs that demonstrate practical file handling operations using text files. These exercises cover reading, writing, updating, and searching file content.
 
-📂 Programs Included
+
+##📂 Programs Included
 
 1. Find a Word in a File
 
@@ -31,7 +32,7 @@ This folder contains Python programs that demonstrate practical file handling op
 - Searches for a user-provided word within a text file.
 - Displays whether the word is present.
 
-🛠️ Concepts Practiced
+##🛠️ Concepts Practiced
 
 - File Handling ("open()")
 - Read, Write, and Append Operations
@@ -41,7 +42,7 @@ This folder contains Python programs that demonstrate practical file handling op
 - Conditional Statements
 - Loops
 
-🚀 How to Run
+##🚀 How to Run
 
 1. Open the project in VS Code.
 2. Ensure the required text files are in the same directory.
@@ -49,6 +50,6 @@ This folder contains Python programs that demonstrate practical file handling op
 
 python filename.py
 
-📚 Learning Outcome
+##📚 Learning Outcome
 
 These exercises strengthen the understanding of Python file handling by working with real-world tasks such as storing data, searching text, generating files, and modifying file contents.
