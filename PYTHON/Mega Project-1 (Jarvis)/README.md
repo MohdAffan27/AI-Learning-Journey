@@ -180,7 +180,7 @@ After activation, give your command.
 | Open YouTube       | Opens YouTube                       |
 | Open Instagram     | Opens Instagram                     |
 | Open Facebook      | Opens Facebook                      |
-| Play Zalima      | Plays a song from the music library |
+| Play Believer      | Plays a song from the music library |
 | News               | Reads the latest headlines          |
 | Any other question | Answered using Groq AI              |
 
