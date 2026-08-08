@@ -1,4 +1,4 @@
-#🤖 AI Learning Journey — Road to AI/ML Engineer
+# 🤖 AI Learning Journey — Road to AI/ML Engineer
 
 Welcome to my AI Learning Journey — a long-term roadmap documenting my progress from Python fundamentals to Machine Learning, Deep Learning, LLM Applications, and Computer Vision.
 
@@ -6,7 +6,7 @@ This repository contains my learning progress, projects, experiments, notes, and
 
 ---
 
-##🎯 My Goal
+## 🎯 My Goal
 
 «Become a strong AI/ML Engineer with practical expertise in Deep Learning, LLM Applications, and Computer Vision.»
 
@@ -23,7 +23,7 @@ This repository contains my learning progress, projects, experiments, notes, and
 
 ---
 
-##📈 Current Progress
+## 📈 Current Progress
 
 Stage| Status
 Python Fundamentals| ✅ Completed
@@ -36,7 +36,7 @@ LLM Applications| ⏳ Upcoming
 Computer Vision| ⏳ Upcoming
 Advanced AI Projects| ⏳ Upcoming
 
-##🐍 Python Milestone — COMPLETED 🎉
+## 🐍 Python Milestone — COMPLETED 🎉
 
 Python course successfully completed!
 
@@ -60,7 +60,7 @@ I also built multiple Python projects instead of learning only through theory.
 
 ---
 
-##🛠️ Projects Built
+## 🛠️ Projects Built
 
 1. Student Marks Manager
 
@@ -104,9 +104,9 @@ Technologies: Python • Groq API • Llama 3.3 • PyAutoGUI • Pyperclip
 
 ---
 
-##🗺️ Learning Roadmap
+## 🗺️ Learning Roadmap
 
-###Phase 1 — Python 🐍
+### Phase 1 — Python 🐍
 
 Status: ✅ COMPLETED
 
@@ -122,7 +122,7 @@ Focus:
 
 ---
 
-###Phase 2 — Python for AI 📊
+### Phase 2 — Python for AI 📊
 
 Status: 🔜 NEXT PHASE
 
@@ -138,7 +138,7 @@ Focus:
 
 ---
 
-###Phase 3 — Machine Learning 🤖
+### Phase 3 — Machine Learning 🤖
 
 Focus:
 
@@ -155,7 +155,7 @@ Focus:
 
 ---
 
-###Phase 4 — Deep Learning 🧠
+### Phase 4 — Deep Learning 🧠
 
 Focus:
 
@@ -170,7 +170,7 @@ Focus:
 
 ---
 
-###Phase 5 — LLM Applications 💬
+### Phase 5 — LLM Applications 💬
 
 Focus:
 
@@ -186,7 +186,7 @@ Focus:
 
 ---
 
-###Phase 6 — Computer Vision 👁️
+### Phase 6 — Computer Vision 👁️
 
 Focus:
 
@@ -201,7 +201,7 @@ Focus:
 
 ---
 
-##💼 Practical Experience
+## 💼 Practical Experience
 
 Machine Learning Internship — FlyRank.ai
 
@@ -218,7 +218,7 @@ The internship involves working with:
 
 ---
 
-##📚 Learning Philosophy
+## 📚 Learning Philosophy
 
 I don't want to become someone who only watches tutorials.
 
@@ -244,7 +244,7 @@ Every major learning stage should result in practical projects and GitHub work.
 
 ---
 
-##📊 Journey Tracker
+## 📊 Journey Tracker
 
 Python
 ████████████████████ 100% ✅
@@ -273,7 +273,7 @@ Computer Vision
 
 ---
 
-##🏆 Milestones
+## 🏆 Milestones
 
 - ✅ Started structured AI/ML learning journey
 - ✅ Learned Python fundamentals
@@ -292,7 +292,7 @@ Computer Vision
 
 ---
 
-###📂 Repository Structure
+### 📂 Repository Structure
 
 ai-learning-journey/
 │
