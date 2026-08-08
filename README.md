@@ -8,9 +8,9 @@ This repository contains my learning progress, projects, experiments, notes, and
 
 ## 🎯 My Goal
 
-«Become a strong AI/ML Engineer with practical expertise in Deep Learning, LLM Applications, and Computer Vision.»
+« Become a strong AI/ML Engineer with practical expertise in Deep Learning, LLM Applications, and Computer Vision. »
 
-###My long-term focus areas:
+### My long-term focus areas:
 
 - 🐍 Python
 - 🤖 Machine Learning
