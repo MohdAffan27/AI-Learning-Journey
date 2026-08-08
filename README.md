@@ -1,6 +1,3 @@
-You're right — you want the **entire README in one single copy-paste block**, with nothing split out.
-
-````markdown
 # 🤖 AI Learning Journey — Road to AI/ML Engineer
 
 Welcome to my **AI Learning Journey** — a long-term roadmap documenting my progress from Python fundamentals to **Machine Learning, Deep Learning, LLM Applications, and Computer Vision**.
