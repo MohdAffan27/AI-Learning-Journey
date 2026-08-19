@@ -145,3 +145,83 @@ I will not move forward simply to maintain a schedule. I want to be comfortable 
 Alongside this learning journey, I am currently working as a **Machine Learning Intern at FlyRank.ai**.
 
 The internship provides practical exposure to real-world Machine Learning workflows and helps me connect
+The structure will evolve as my skills and projects grow.
+
+---
+
+## 📈 Progress
+
+| Area | Status |
+|---|---|
+| Python | ✅ Completed |
+| Git & GitHub | ✅ Active |
+| NumPy | 🔄 In Progress |
+| Pandas | ⏳ Upcoming |
+| Matplotlib | ⏳ Upcoming |
+| Mathematics for ML | ⏳ Upcoming |
+| Machine Learning | ⏳ Upcoming |
+| Scikit-learn | ⏳ Upcoming |
+| PyTorch | ⏳ Upcoming |
+| Deep Learning | ⏳ Upcoming |
+| Computer Vision | ⏳ Upcoming |
+| Advanced Vision | ⏳ Upcoming |
+| Transformers / ViT | ⏳ Upcoming |
+| Vision-Language Models | ⏳ Upcoming |
+| LLM / Multimodal AI | ⏳ Upcoming |
+| Research | ⏳ Upcoming |
+
+---
+
+## 🔬 Research Preparation
+
+As my foundation becomes stronger, I will progressively develop skills in:
+
+- Mathematics for ML
+- Machine Learning
+- Deep Learning
+- PyTorch
+- Computer Vision
+- Model Evaluation
+- Experimentation
+- Research Paper Reading
+- Research Implementation
+- Research Reproduction
+- Technical Writing
+- Scientific Thinking
+- Portfolio Development
+
+Research difficulty will increase only after the required fundamentals are established.
+
+---
+
+## 📌 Current Milestone
+
+### Day 23 — NumPy Fundamentals ✅
+
+Python foundation is complete, and I am currently strengthening my **NumPy foundation** before moving to Pandas.
+
+### Next Focus
+
+**NumPy → Mathematical Operations**
+
+---
+
+## ⭐ Progress Over Speed
+
+This repository is a record of my actual learning process, including:
+
+- Concepts
+- Practice
+- Projects
+- Experiments
+- Mistakes
+- Improvements
+- Research preparation
+
+There is no fixed deadline for completing the journey.
+
+> **The goal is not to finish quickly. The goal is to become genuinely capable.**
+
+---
+
+# 🚀 AI Engineer in the Making
