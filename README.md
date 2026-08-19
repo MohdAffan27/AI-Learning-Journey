@@ -1,16 +1,16 @@
-🤖 AI Learning Journey — Road to AI/ML Engineer
+# 🤖 AI Learning Journey — Road to AI/ML Engineer
 
-Welcome to my AI Learning Journey — a long-term roadmap documenting my progress from Python fundamentals to Machine Learning, Deep Learning, LLM Applications, and Computer Vision.
+Welcome to my **AI Learning Journey** — a long-term roadmap documenting my progress from Python fundamentals to **Machine Learning, Deep Learning, LLM Applications, and Computer Vision**.
 
-This repository contains my learning progress, projects, experiments, notes, and milestones as I work toward becoming an AI/ML Engineer.
+This repository contains my learning progress, projects, experiments, notes, and milestones as I work toward becoming an **AI/ML Engineer**.
 
 ---
 
-🎯 My Goal
+## 🎯 My Goal
 
-«Become a strong AI/ML Engineer with practical expertise in Deep Learning, LLM Applications, and Computer Vision.»
+> Become a strong AI/ML Engineer with practical expertise in **Deep Learning, LLM Applications, and Computer Vision**.
 
-My long-term focus areas:
+### My Long-Term Focus Areas
 
 - 🐍 Python
 - 🤖 Machine Learning
@@ -18,27 +18,30 @@ My long-term focus areas:
 - 💬 LLM Applications
 - 👁️ Computer Vision
 - 📊 Data & Model Analysis
-- 🚀 AI-powered Projects
+- 🚀 AI-Powered Projects
 - 💻 Software Engineering & GitHub
 
 ---
 
-📈 Current Progress
+## 📈 Current Progress
 
-Stage| Status
-Python Fundamentals| ✅ Completed
-Python Practice & Projects| ✅ Completed
-Git & GitHub| 🔄 Ongoing
-NumPy / Data Handling| ⏳ Next
-Machine Learning| ⏳ Upcoming
-Deep Learning| ⏳ Upcoming
-LLM Applications| ⏳ Upcoming
-Computer Vision| ⏳ Upcoming
-Advanced AI Projects| ⏳ Upcoming
+| Stage | Status |
+|---|---|
+| Python Fundamentals | ✅ Completed |
+| Python Practice & Projects | ✅ Completed |
+| Git & GitHub | 🔄 Ongoing |
+| NumPy / Data Handling | ⏳ Next |
+| Machine Learning | ⏳ Upcoming |
+| Deep Learning | ⏳ Upcoming |
+| LLM Applications | ⏳ Upcoming |
+| Computer Vision | ⏳ Upcoming |
+| Advanced AI Projects | ⏳ Upcoming |
 
-🐍 Python Milestone — COMPLETED 🎉
+---
 
-Python course successfully completed!
+## 🐍 Python Milestone — COMPLETED 🎉
+
+**Python course successfully completed!**
 
 During the Python phase, I practiced:
 
@@ -50,47 +53,47 @@ During the Python phase, I practiced:
 - Loops
 - Functions
 - File Handling
-- Object-Oriented Programming concepts
+- Object-Oriented Programming Concepts
 - Exception Handling
 - Modules & Packages
-- Practical problem solving
-- Git & GitHub workflow
+- Practical Problem Solving
+- Git & GitHub Workflow
 
 I also built multiple Python projects instead of learning only through theory.
 
 ---
 
-🛠️ Projects Built
+## 🛠️ Projects Built
 
-1. Student Marks Manager
+### 1. Student Marks Manager
 
 A Python-based program for managing and processing student marks.
 
-2. Contact Book
+### 2. Contact Book
 
 A simple contact-management application using Python data structures.
 
-3. ATM Simulation
+### 3. ATM Simulation
 
 A console-based ATM simulation implementing conditions and user interaction.
 
-4. Number Guessing Game
+### 4. Number Guessing Game
 
 A Python game designed to practice loops, conditions, and user input.
 
-5. Student Record File Manager
+### 5. Student Record File Manager
 
 A file-handling project for storing and managing student records.
 
-6. Snake Water Gun Game
+### 6. Snake Water Gun Game
 
 A Python implementation of the classic Snake-Water-Gun game.
 
-7. Jarvis AI Assistant
+### 7. Jarvis AI Assistant
 
 A Python-based voice assistant project using speech recognition, text-to-speech, and external services.
 
-8. Auto Reply AI Chatbot
+### 8. Auto Reply AI Chatbot
 
 An AI-powered desktop automation project that:
 
@@ -100,17 +103,17 @@ An AI-powered desktop automation project that:
 - Generates personalized Hinglish responses
 - Automatically pastes and sends the response
 
-Technologies: Python • Groq API • Llama 3.3 • PyAutoGUI • Pyperclip
+**Technologies:** Python • Groq API • Llama 3.3 • PyAutoGUI • Pyperclip
 
 ---
 
-🗺️ Learning Roadmap
+## 🗺️ Learning Roadmap
 
-Phase 1 — Python 🐍
+### Phase 1 — Python 🐍
 
-Status: ✅ COMPLETED
+**Status:** ✅ COMPLETED
 
-Focus:
+**Focus:**
 
 - Python fundamentals
 - Problem solving
@@ -122,11 +125,11 @@ Focus:
 
 ---
 
-Phase 2 — Python for AI 📊
+### Phase 2 — Python for AI 📊
 
-Status: 🔜 NEXT PHASE
+**Status:** 🔜 NEXT PHASE
 
-Focus:
+**Focus:**
 
 - NumPy
 - Pandas
@@ -138,9 +141,9 @@ Focus:
 
 ---
 
-Phase 3 — Machine Learning 🤖
+### Phase 3 — Machine Learning 🤖
 
-Focus:
+**Focus:**
 
 - Mathematics for ML
 - Supervised Learning
@@ -151,13 +154,13 @@ Focus:
 - Feature Engineering
 - Model Evaluation
 - Scikit-learn
-- End-to-end ML projects
+- End-to-end ML Projects
 
 ---
 
-Phase 4 — Deep Learning 🧠
+### Phase 4 — Deep Learning 🧠
 
-Focus:
+**Focus:**
 
 - Neural Networks
 - Backpropagation
@@ -165,14 +168,14 @@ Focus:
 - PyTorch
 - CNNs
 - Transfer Learning
-- Model training
-- Model evaluation
+- Model Training
+- Model Evaluation
 
 ---
 
-Phase 5 — LLM Applications 💬
+### Phase 5 — LLM Applications 💬
 
-Focus:
+**Focus:**
 
 - Transformers
 - LLM APIs
@@ -182,17 +185,17 @@ Focus:
 - RAG
 - AI Agents
 - Tool Calling
-- LLM-powered applications
+- LLM-Powered Applications
 
 ---
 
-Phase 6 — Computer Vision 👁️
+### Phase 6 — Computer Vision 👁️
 
-Focus:
+**Focus:**
 
 - Image Processing
 - OpenCV
-- CNN architectures
+- CNN Architectures
 - Object Detection
 - Image Classification
 - Segmentation
@@ -201,11 +204,11 @@ Focus:
 
 ---
 
-💼 Practical Experience
+## 💼 Practical Experience
 
-Machine Learning Internship — FlyRank.ai
+### Machine Learning Internship — FlyRank.ai
 
-Currently gaining practical experience through a Machine Learning internship.
+Currently gaining practical experience through a **Machine Learning internship**.
 
 The internship involves working with:
 
@@ -218,12 +221,13 @@ The internship involves working with:
 
 ---
 
-📚 Learning Philosophy
+## 📚 Learning Philosophy
 
 I don't want to become someone who only watches tutorials.
 
 My approach is:
 
+```text
 Learn
   ↓
 Practice
@@ -239,56 +243,76 @@ Understand
 Document
   ↓
 Repeat
+````
 
 Every major learning stage should result in practical projects and GitHub work.
 
 ---
 
-📊 Journey Tracker
+## 📊 Journey Tracker
 
-Python
+### Python
+
+```text
 ████████████████████ 100% ✅
+```
 
-Python for AI
+### Python for AI
+
+```text
 ░░░░░░░░░░░░░░░░░░░░   0% 🔜
+```
 
-Machine Learning
+### Machine Learning
+
+```text
 ░░░░░░░░░░░░░░░░░░░░   0% ⏳
+```
 
-Deep Learning
+### Deep Learning
+
+```text
 ░░░░░░░░░░░░░░░░░░░░   0% ⏳
+```
 
-LLM Applications
+### LLM Applications
+
+```text
 ░░░░░░░░░░░░░░░░░░░░   0% ⏳
+```
 
-Computer Vision
+### Computer Vision
+
+```text
 ░░░░░░░░░░░░░░░░░░░░   0% ⏳
+```
 
-«Progress percentages will be updated as each phase develops.»
+> Progress percentages will be updated as each phase develops.
 
 ---
 
-🏆 Milestones
+## 🏆 Milestones
 
-- ✅ Started structured AI/ML learning journey
-- ✅ Learned Python fundamentals
-- ✅ Built multiple Python projects
-- ✅ Started using Git & GitHub consistently
-- ✅ Built Jarvis AI Assistant
-- ✅ Built Auto Reply AI Chatbot
-- ✅ Started Machine Learning internship
-- 🎉 Completed Python course
-- ⏳ Begin Python for AI
-- ⏳ Complete Machine Learning fundamentals
-- ⏳ Build first serious ML projects
-- ⏳ Begin Deep Learning
-- ⏳ Build LLM applications
-- ⏳ Specialize in Computer Vision
+* ✅ Started structured AI/ML learning journey
+* ✅ Learned Python fundamentals
+* ✅ Built multiple Python projects
+* ✅ Started using Git & GitHub consistently
+* ✅ Built Jarvis AI Assistant
+* ✅ Built Auto Reply AI Chatbot
+* ✅ Started Machine Learning internship
+* 🎉 Completed Python course
+* ⏳ Begin Python for AI
+* ⏳ Complete Machine Learning fundamentals
+* ⏳ Build first serious ML projects
+* ⏳ Begin Deep Learning
+* ⏳ Build LLM applications
+* ⏳ Specialize in Computer Vision
 
 ---
 
-📂 Repository Structure
+## 📂 Repository Structure
 
+```text
 ai-learning-journey/
 │
 ├── Python/
@@ -314,31 +338,37 @@ ai-learning-journey/
 │   └── Projects/
 │
 └── README.md
+```
 
 ---
 
-🔥 Current Mission
+## 🔥 Current Mission
 
-Python is done.
+**Python is done.**
 
-The next mission is to turn Python knowledge into the foundation for AI/ML development.
+The next mission is to turn Python knowledge into the foundation for **AI/ML development**.
 
-«Learn → Build → Document → Improve.»
+> **Learn → Build → Document → Improve**
 
 One step at a time.
 
-🚀 Road to AI/ML Engineer
+---
 
-Python → ML → Deep Learning → LLMs → Computer Vision → Real-World AI Projects
+## 🚀 Road to AI/ML Engineer
+
+**Python → ML → Deep Learning → LLMs → Computer Vision → Real-World AI Projects**
 
 ---
 
-👨‍💻 Mohammed Affan
+## 👨‍💻 Mohammed Affan
 
-BTech CSE — 3rd Year
+**BTech CSE — 3rd Year**
 
-Aspiring AI/ML Engineer
+**Aspiring AI/ML Engineer**
 
-Focus: Python • Machine Learning • Deep Learning • LLM Applications • Computer Vision
+**Focus:** Python • Machine Learning • Deep Learning • LLM Applications • Computer Vision
 
-«The journey has just started.»
+> *The journey has just started.*
+
+```
+```
