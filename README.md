@@ -1,209 +1,230 @@
-# 🤖 AI Learning Journey — Road to AI/ML Engineer
+# 🚀 AI Learning Journey
 
-Welcome to my **AI Learning Journey** — a long-term roadmap documenting my progress from Python fundamentals to **Machine Learning, Deep Learning, LLM Applications, and Computer Vision**.
+> Building my foundation to become an AI/ML Engineer with a long-term focus on Deep Learning, Computer Vision, Multimodal AI, and Research.
 
-This repository contains my learning progress, projects, experiments, notes, and milestones as I work toward becoming an **AI/ML Engineer**.
+This repository documents my ongoing AI/ML learning journey — including concepts, practice problems, projects, experiments, notes, and implementations.
+
+The goal is not to rush through a fixed timeline. The goal is to build strong fundamentals and real technical ability, step by step.
 
 ---
 
-## 🎯 My Goal
+## 🎯 Long-Term Goal
 
-> Become a strong AI/ML Engineer with practical expertise in **Deep Learning, LLM Applications, and Computer Vision**.
+My goal is to become an **AI/ML Engineer** specializing in:
 
-### My Long-Term Focus Areas
-
-- 🐍 Python
-- 🤖 Machine Learning
-- 🧠 Deep Learning
-- 💬 LLM Applications
+- 🤖 Deep Learning
 - 👁️ Computer Vision
-- 📊 Data & Model Analysis
-- 🚀 AI-Powered Projects
-- 💻 Software Engineering & GitHub
+- 🎨 Computer Graphics
+- 🛰️ Remote Sensing
+- 🗣️ Vision & Language
+- 🧠 LLM Applications
+- 🔗 Multimodal AI
+- 🔬 AI/ML Research
+
+I am particularly interested in developing skills relevant to research-oriented opportunities in visual computing and AI.
 
 ---
 
-## 📈 Current Progress
+## 🗺️ Learning Path
 
-| Stage | Status |
-|---|---|
-| Python Fundamentals | ✅ Completed |
-| Python Practice & Projects | ✅ Completed |
-| Git & GitHub | 🔄 Ongoing |
-| NumPy / Data Handling | ⏳ Next |
-| Machine Learning | ⏳ Upcoming |
-| Deep Learning | ⏳ Upcoming |
-| LLM Applications | ⏳ Upcoming |
-| Computer Vision | ⏳ Upcoming |
-| Advanced AI Projects | ⏳ Upcoming |
+I am following a structured progression rather than jumping between random technologies:
+
+Python
+↓
+NumPy
+↓
+Pandas
+↓
+Matplotlib
+↓
+Mathematics for ML
+↓
+Machine Learning
+↓
+Scikit-learn
+↓
+PyTorch
+↓
+Deep Learning
+↓
+Computer Vision
+↓
+Advanced Vision
+↓
+Transformers / ViT
+↓
+Vision-Language Models
+↓
+LLMs / Multimodal AI
+↓
+Research & Reproduction
+
+The sequence may take longer than initially planned, but **understanding comes before speed**.
 
 ---
 
-## 🐍 Python Milestone — COMPLETED 🎉
+## 📊 Current Status
 
-**Python course successfully completed!**
+### 🐍 Python — COMPLETED ✅
 
-During the Python phase, I practiced:
+Python fundamentals have been completed, including:
 
-- Variables & Data Types
+- Variables & basic syntax
 - Strings
-- Lists & Tuples
-- Dictionaries & Sets
-- Conditional Statements
+- Lists
+- Tuples
+- Dictionaries
+- Sets
+- Conditional statements
 - Loops
 - Functions
-- File Handling
-- Object-Oriented Programming Concepts
-- Exception Handling
-- Modules & Packages
-- Practical Problem Solving
-- Git & GitHub Workflow
-
-I also built multiple Python projects instead of learning only through theory.
-
----
-
-## 🛠️ Projects Built
-
-### 1. Student Marks Manager
-
-A Python-based program for managing and processing student marks.
-
-### 2. Contact Book
-
-A simple contact-management application using Python data structures.
-
-### 3. ATM Simulation
-
-A console-based ATM simulation implementing conditions and user interaction.
-
-### 4. Number Guessing Game
-
-A Python game designed to practice loops, conditions, and user input.
-
-### 5. Student Record File Manager
-
-A file-handling project for storing and managing student records.
-
-### 6. Snake Water Gun Game
-
-A Python implementation of the classic Snake-Water-Gun game.
-
-### 7. Jarvis AI Assistant
-
-A Python-based voice assistant project using speech recognition, text-to-speech, and external services.
-
-### 8. Auto Reply AI Chatbot
-
-An AI-powered desktop automation project that:
-
-- Reads chat history
-- Detects messages from configured senders
-- Sends chat context to an LLM
-- Generates personalized Hinglish responses
-- Automatically pastes and sends the response
-
-**Technologies:** Python • Groq API • Llama 3.3 • PyAutoGUI • Pyperclip
-
----
-
-## 🗺️ Learning Roadmap
-
-### Phase 1 — Python 🐍
-
-**Status:** ✅ COMPLETED
-
-**Focus:**
-
-- Python fundamentals
-- Problem solving
-- Functions
 - File handling
-- Modules
-- Practical projects
-- Git & GitHub
+- Problem solving
+- Git & GitHub workflow
+
+### Python Projects
+
+- Student Marks Manager
+- Contact Book
+- ATM Simulation
+- Number Guessing Game
+- Student Record File Manager
+- Snake Water Gun Game
 
 ---
 
-### Phase 2 — Python for AI 📊
+## 🔢 NumPy — CURRENTLY LEARNING 🔄
 
-**Status:** 🔜 NEXT PHASE
+**Current Progress: Day 23**
 
-**Focus:**
+### Completed Topics
 
-- NumPy
-- Pandas
-- Matplotlib
-- Data preprocessing
-- Data visualization
-- Working with datasets
-- Scientific Python
+- NumPy Introduction
+- NumPy Installation
+- Creating NumPy arrays
+- `np.zeros()`
+- `np.ones()`
+- `np.arange()`
+- `np.linspace()`
+- `np.empty()`
+- Array indexing
+- Slicing
+- Advanced indexing
+- Arithmetic operations
+- Unary operations
+- Binary operations
+- Mathematical functions
+- Sorting arrays
+- Axis of arrays
+- `shape`
+- `dtype`
+- Stacking
+- Splitting arrays
+- Broadcasting
+
+### Remaining Topics
+
+- Mathematical Operations
+- Linear Algebra
+- Random Number Generation & Statistics
+- Advanced Operations
+- Quiz & Practice
+- NumPy Project
+- Final Revision
+
+### Current Focus
+
+> **Finish NumPy properly → Move to Pandas**
+
+I will not move forward simply to maintain a schedule. I want to be comfortable using NumPy in practical code first.
 
 ---
 
-### Phase 3 — Machine Learning 🤖
+## 💼 Machine Learning Internship
 
-**Focus:**
+Alongside this learning journey, I am currently working as a **Machine Learning Intern at FlyRank.ai**.
+
+The internship provides practical exposure to real-world Machine Learning workflows and helps me connect
+The structure will evolve as my skills and projects grow.
+
+---
+
+## 📈 Progress
+
+| Area | Status |
+|---|---|
+| Python | ✅ Completed |
+| Git & GitHub | ✅ Active |
+| NumPy | 🔄 In Progress |
+| Pandas | ⏳ Upcoming |
+| Matplotlib | ⏳ Upcoming |
+| Mathematics for ML | ⏳ Upcoming |
+| Machine Learning | ⏳ Upcoming |
+| Scikit-learn | ⏳ Upcoming |
+| PyTorch | ⏳ Upcoming |
+| Deep Learning | ⏳ Upcoming |
+| Computer Vision | ⏳ Upcoming |
+| Advanced Vision | ⏳ Upcoming |
+| Transformers / ViT | ⏳ Upcoming |
+| Vision-Language Models | ⏳ Upcoming |
+| LLM / Multimodal AI | ⏳ Upcoming |
+| Research | ⏳ Upcoming |
+
+---
+
+## 🔬 Research Preparation
+
+As my foundation becomes stronger, I will progressively develop skills in:
 
 - Mathematics for ML
-- Supervised Learning
-- Unsupervised Learning
-- Regression
-- Classification
-- Clustering
-- Feature Engineering
-- Model Evaluation
-- Scikit-learn
-- End-to-end ML Projects
-
----
-
-### Phase 4 — Deep Learning 🧠
-
-**Focus:**
-
-- Neural Networks
-- Backpropagation
-- Optimization
+- Machine Learning
+- Deep Learning
 - PyTorch
-- CNNs
-- Transfer Learning
-- Model Training
+- Computer Vision
 - Model Evaluation
+- Experimentation
+- Research Paper Reading
+- Research Implementation
+- Research Reproduction
+- Technical Writing
+- Scientific Thinking
+- Portfolio Development
+
+Research difficulty will increase only after the required fundamentals are established.
 
 ---
 
-### Phase 5 — LLM Applications 💬
+## 📌 Current Milestone
 
-**Focus:**
+### Day 23 — NumPy Fundamentals ✅
 
-- Transformers
-- LLM APIs
-- Prompt Engineering
-- Embeddings
-- Vector Databases
-- RAG
-- AI Agents
-- Tool Calling
-- LLM-Powered Applications
+Python foundation is complete, and I am currently strengthening my **NumPy foundation** before moving to Pandas.
+
+### Next Focus
+
+**NumPy → Mathematical Operations**
 
 ---
 
-### Phase 6 — Computer Vision 👁️
+## ⭐ Progress Over Speed
 
-**Focus:**
+This repository is a record of my actual learning process, including:
 
-- Image Processing
-- OpenCV
-- CNN Architectures
-- Object Detection
-- Image Classification
-- Segmentation
-- Vision Transformers
-- Multimodal AI
+- Concepts
+- Practice
+- Projects
+- Experiments
+- Mistakes
+- Improvements
+- Research preparation
+
+There is no fixed deadline for completing the journey.
+
+> **The goal is not to finish quickly. The goal is to become genuinely capable.**
 
 ---
 
+<<<<<<< HEAD
 ## 💼 Practical Experience
 
 ### Machine Learning Internship — FlyRank.ai
@@ -372,3 +393,6 @@ One step at a time.
 
 ```
 ```
+=======
+# 🚀 AI Engineer in the Making
+>>>>>>> 017df2c43b2c6798372bf16ad1743128724c9f36
