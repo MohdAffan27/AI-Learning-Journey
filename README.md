@@ -293,20 +293,20 @@ Every major learning stage should result in practical projects and GitHub work.
 
 ## 🏆 Milestones
 
-* ✅ Started structured AI/ML learning journey
-* ✅ Learned Python fundamentals
-* ✅ Built multiple Python projects
-* ✅ Started using Git & GitHub consistently
-* ✅ Built Jarvis AI Assistant
-* ✅ Built Auto Reply AI Chatbot
-* ✅ Started Machine Learning internship
-* 🎉 Completed Python course
-* ⏳ Begin Python for AI
-* ⏳ Complete Machine Learning fundamentals
-* ⏳ Build first serious ML projects
-* ⏳ Begin Deep Learning
-* ⏳ Build LLM applications
-* ⏳ Specialize in Computer Vision
+*✅ Started structured AI/ML learning journey
+*✅ Learned Python fundamentals
+*✅ Built multiple Python projects
+*✅ Started using Git & GitHub consistently
+*✅ Built Jarvis AI Assistant
+*✅ Built Auto Reply AI Chatbot
+*✅ Started Machine Learning internship
+*🎉 Completed Python course
+*⏳ Begin Python for AI
+*⏳ Complete Machine Learning fundamentals
+*⏳ Build first serious ML projects
+*⏳ Begin Deep Learning
+*⏳ Build LLM applications
+*⏳ Specialize in Computer Vision
 
 ---
 
@@ -356,15 +356,15 @@ One step at a time.
 
 ## 🚀 Road to AI/ML Engineer
 
-**Python → ML → Deep Learning → LLMs → Computer Vision → Real-World AI Projects**
+** Python → ML → Deep Learning → LLMs → Computer Vision → Real-World AI Projects *
 
 ---
 
 ## 👨‍💻 Mohammed Affan
 
-**BTech CSE — 3rd Year**
+**BTech CSE — 3rd Year*
 
-**Aspiring AI/ML Engineer**
+**Aspiring AI/ML Engineer*
 
 **Focus:** Python • Machine Learning • Deep Learning • LLM Applications • Computer Vision
 
